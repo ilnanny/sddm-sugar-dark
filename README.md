@@ -41,7 +41,7 @@ In the `[Theme]` section simply add the themes name: `Current=sugar-dark`. Also 
 From Gentoo Openrc:
 open 
 /usr/share/sddm/sddm.conf.d/00default.conf
-In the `[Theme]` section simply add the themes name: `Current=sugar-dark`. 
+In the `[Theme]` section simply add the themes name: `Current=sddm-sugar-dark`. 
 
 ### Theming the theme
 
