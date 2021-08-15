@@ -38,6 +38,11 @@ After that you will have to point SDDM to the new theme by editing its config fi
 
 In the `[Theme]` section simply add the themes name: `Current=sugar-dark`. Also see the [Arch wiki on SDDM](https://wiki.archlinux.org/index.php/SDDM).
 
+From Gentoo Openrc:
+open 
+/usr/share/sddm/sddm.conf.d/00default.conf
+In the `[Theme]` section simply add the themes name: `Current=sugar-dark`. 
+
 ### Theming the theme
 
 Sugar is extremely customizable by editing its included `theme.conf` file. You can change the colors and images used, the time and date formats, the appearance of the whole interface and even how it works.  
